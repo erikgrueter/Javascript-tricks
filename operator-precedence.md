@@ -48,7 +48,7 @@ a = b
 
 ```
 
-Not all operators have right to left associativty. Review the abovementioned tables for certain
+Not all operators have right to left associativity. Review the abovementioned tables for certain
 operators
 
 
