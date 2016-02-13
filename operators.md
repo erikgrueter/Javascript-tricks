@@ -27,7 +27,7 @@ For example:
 +(3,4);
 ```
 
-Javascript uses Infix notation (instead of prefix notation for standard functions.
+Javascript uses __Infix notation__ (instead of prefix notation for standard functions.
 
 ```javascript
 
