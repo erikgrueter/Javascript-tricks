@@ -31,7 +31,7 @@ console.log(c);
 // 4
 // 4
 ```
-Why 4? Because addition has a right to left associativity. This means 
+Why 4? Because addition has a right to left associativity.
 
 So
 
